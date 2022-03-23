@@ -1,5 +1,7 @@
 # Marlin 3D Printer Firmware
 
+## Not for production use. Use with caution!
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
@@ -12,7 +14,7 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 
 ## Marlin 2.0.9.x Bugfix Branch (March 23, 2022 version)
 
-__Not for production use. Use with caution!__
+## Not for production use. Use with caution!
 
 Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
 
